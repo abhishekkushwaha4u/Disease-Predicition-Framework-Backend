@@ -3,13 +3,13 @@ It has all the routes related to our project on disease prediction and other com
 
 Some key features of the backend routes are:-
 
-1) Disease Prediction Routes for 6 different diseases
-    a) **Diabetes**
-    b) **Kidney**
-    c) **Liver**
-    d) **Malaria**
-    e) **Pneumonia**(*Lungs*)
-    f) **Skin**
+1) Disease Prediction Routes for 6 different diseases<br>
+    a) **Diabetes**<br>
+    b) **Kidney**<br>
+    c) **Liver**<br>
+    d) **Malaria**<br>
+    e) **Pneumonia**(*Lungs*)<br>
+    f) **Skin**<br>
 
 2) A Route for interacting with the chatbot(`intent-based` and built on `bag of words model`)
 
@@ -43,6 +43,8 @@ In this section, we will see how we can download, setup, and use GeckoDriver on 
 
 1. Firstly, open properties by right-clicking on This PC.
 
+<img src="https://winaero.com/blog/wp-content/uploads/2016/02/default-this-pc-in-Windows-10.png" alt="Windows Explorer" />
+
 2. Secondly, open Advanced System Settings and click on Environment Variables.
 
 <img src="https://cdn-anlbg.nitrocdn.com/dKKErbUyoNysjatCgltCzbTJJilTMwLi/assets/static/optimized/rev-4b21c3b/wp-content/uploads/sites/1/nggallery/selenium-1/8-Opening-System-Environment-Variables.png" alt="Environment Variable" />
@@ -59,15 +61,14 @@ In this section, we will see how we can download, setup, and use GeckoDriver on 
 
 *Setting up backend locally*
 
-1) We need to create a virtual environment for this project. For that we need to do
-    a) `pip install virtualenv`
-    
-    b) `virtualenv env`
-2) To activate the virtual environment we do: `.\env\Scripts\activate`
-3) To install requirements: `pip install -r requirments.txt`
-4) To run the server: `python manage.py runserver`
+1) We need to create a virtual environment for this project. For that we need to do:<br>
+    a) `pip install virtualenv`<br>
+    b) `virtualenv env`<br>
+2) To activate the virtual environment we do: `.\env\Scripts\activate`<br>
+3) To install requirements: `pip install -r requirments.txt`<br>
+4) To run the server: `python manage.py runserver`<br>
 
 Note:
 
 1) Project has been compiled and tested on the latest version of python(ver 3.9.5) so might not work on python 2.7
-2) Docs for the routes made in this project can be found (here)[https://documenter.getpostman.com/view/7132402/TzRSfSkr]
+2) Docs for the routes made in this project can be found [here](https://documenter.getpostman.com/view/7132402/TzRSfSkr)
