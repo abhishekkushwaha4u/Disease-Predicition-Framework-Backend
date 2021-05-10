@@ -75,3 +75,4 @@ Note:
 
 1) Project has been compiled and tested on the latest version of python(ver 3.9.5) so might not work on python 2.7
 2) Docs for the routes made in this project can be found [here](https://documenter.getpostman.com/view/7132402/TzRSfSkr)
+3) This project is not yet optimized/configured to run on production, but in case you do end up running it on production, please change the *SECRET_KEY* in `settings.py` in `backend/` 
