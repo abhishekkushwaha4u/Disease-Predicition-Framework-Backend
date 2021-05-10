@@ -1,7 +1,8 @@
 <img src="https://www.onlinelogomaker.com/applet_userdata/version2/0/b/33854085/projects/33854085.png" alt="Tarp Project Logo"/>
 
 
-This is the backend for our Tarp Project 2021-22
+This is the backend for our Tarp Project 2021-22.
+
 It has all the routes related to our project on disease prediction and other components
 
 Some key features of the backend routes are:-
